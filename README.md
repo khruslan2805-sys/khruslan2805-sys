@@ -41,21 +41,18 @@ JWT-аутентификация
 
 
 ### [fastapi-todo](https://github.com/khruslan2805-sys/fastapi-todo)
-Простое и эффективное ToDo API на FastAPI для управления задачами.  
-Функционал:
+Минималистичный сервис задач, реализующий базовые принципы проектирования REST-API:
 CRUD-операции (создание, редактирование, удаление, получение задач)  
 Валидация через Pydantic  
 Работа с SQLite и SQLAlchemy  
 Подготовка к масштабированию и подключению JWT  
 
-## В процессе изучения
+## Сейчас изучаю:
 
-Я постоянно развиваюсь и сейчас активно изучаю:
-Docker Compose - для контейнеризации и оркестрации  
-CI/CD (GitHub Actions) - автоматизация сборок и деплоя  
-FastAPI Background Tasks & WebSockets - асинхронные задачи  
-Clean Architecture - для более масштабируемых решений  
-
+- Docker Compose
+- CI/CD (GitHub Actions)
+- Background Tasks & WebSockets в FastAPI
+- Clean Architecture
 
 ## Контакты
 
