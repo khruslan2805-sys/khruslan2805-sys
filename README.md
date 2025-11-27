@@ -1,4 +1,4 @@
-# Привет! Я — Middle Backend Developer (Python / FastAPI / Django)
+# Привет! Я —  Backend Developer (Python / FastAPI / Django)
 
 
 Имею 3+ года коммерческого опыта в разработке backend-систем, высоконагруженных API и интеграционных сервисов. Работал как с FastAPI, так и с Django, включая Django REST Framework, ORM-оптимизацию и построение модульной архитектуры.
